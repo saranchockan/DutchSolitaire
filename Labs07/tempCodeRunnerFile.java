@@ -1,1 +1,0 @@
-clickedCard
